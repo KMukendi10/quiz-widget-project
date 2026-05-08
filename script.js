@@ -28,9 +28,16 @@ const quizData = [
     },
     
     {
+        question: "Which HTML tag is used to create a hyperlink?",
+        answers: ["<link>", "<a>", "<href>"],
+        correct: "<a>"
+    },
+
+    {
         question: "Which language is used for styling web pages?",
         answers: ["HTML", "CSS", "Python"],
         correct: "CSS"
+    
 }
 
 ];
